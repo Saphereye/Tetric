@@ -1,0 +1,13 @@
+> Interpreter
+    > on pressing 'RUN', replace all text with || commands, enter part with space
+        > Step one check for predefined special character e.g. ^2,^3,square root from dictionary
+            > If not in predefined, execute python code e.g. |'.'*9| prints '.' 9 times
+    >
+> Kivy py file and .kivy file
+
+> Operators
+    > n.text     : n number of times of text
+    > n1.n2.text : grid of text
+    > -          : delete previous letter
+    > --         : delete previous line
+> Never put divider symbol at front
